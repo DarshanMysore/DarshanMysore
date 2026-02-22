@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am currently persiving an mca<br>
+I am an MCA Final Year student passionate about Full Stack Development.
+I enjoy building real-world web applications using Python, PHP, and MySQL.
+Currently looking for internship and entry-level developer opportunities.<br>
 
 
 ## 🌐 Socials:
