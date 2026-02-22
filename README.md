@@ -10,7 +10,7 @@
 
 I am an MCA Final Year student passionate about Full Stack Development.  
 I build real-world web applications using Python, PHP, and MySQL.  
-Currently seeking internship and entry-level developer opportunities.
+Currently seeking entry-level developer opportunities.
 
 ---
 
@@ -18,7 +18,7 @@ Currently seeking internship and entry-level developer opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-p-213ba0348)
 
-📧 Email: your-email@gmail.com  
+📧 Email: darshan.p.123@gmail.com  
 
 ---
 
@@ -36,13 +36,17 @@ Currently seeking internship and entry-level developer opportunities.
 
 ## 🚀 Projects
 
-### 🍽 Restaurant Management System  
-A web-based system to manage orders, billing, and customer details.  
-Tech Used: PHP, MySQL, HTML, CSS  
-
-### 🗳 Online Voting System  
+### 🗳 Online Voting System (Web Application) 
 Secure voting platform for college elections.  
 Tech Used: PHP, MySQL  
+
+### 🤖 Medical Healthcare Chatbot  
+An intelligent chatbot that provides basic medical guidance and answers health-related queries.  
+Tech Used: PHP, MySQL, HTML, CSS
+
+### 📱 Student Online Voting System (Android App)  
+An Android application developed using Android Studio for conducting secure student elections.  
+Tech Used: Java, XML 
 
 ### 🌐 Portfolio Website  
 Responsive personal portfolio website showcasing my projects and skills.  
@@ -50,5 +54,6 @@ Responsive personal portfolio website showcasing my projects and skills.
 ---
 
 ## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DarshanMysore&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
