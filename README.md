@@ -7,23 +7,14 @@
 ---
 
 ## 👨‍💻 About Me
+I am an MCA Final Year student passionate about Full Stack Development.
+I enjoy building real-world web applications using Python, PHP, and MySQL.
+Currently looking for internship and entry-level developer opportunities.<br>
 
-I am an MCA Final Year student passionate about Full Stack Development.  
-I build real-world web applications using Python, PHP, and MySQL.  
-Currently seeking entry-level developer opportunities.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-p-213ba0348) 
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-p-213ba0348)
-
-📧 Email: darshan.p.123@gmail.com  
-
----
-
-## 💻 Tech Stack
-
+# 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
@@ -32,26 +23,11 @@ Currently seeking entry-level developer opportunities.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
----
-
-## 🚀 Projects
-
-### 🗳 Online Voting System (Web Application) 
-Secure voting platform for college elections.  
-Tech Used: PHP, MySQL  
-
-### 🤖 Medical Healthcare Chatbot  
-An intelligent chatbot that provides basic medical guidance and answers health-related queries.  
-Tech Used: PHP, MySQL, HTML, CSS
-
-### 📱 Student Online Voting System (Android App)  
-An Android application developed using Android Studio for conducting secure student elections.  
-Tech Used: Java, XML 
-
-### 🌐 Portfolio Website  
-Responsive personal portfolio website showcasing my projects and skills.  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DarshanMysore&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=DarshanMysore&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanMysore&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) in this code remove the strikes code
+[![](https://visitcount.itsvg.in/api?id=DarshanMysore&icon=0&color=0)](https://visitcount.itsvg.in)
+this is my complete readme file check it once
