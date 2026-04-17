@@ -38,7 +38,8 @@ Currently seeking internship and entry-level developer opportunities.
 
 ### 🗳 Online Voting System (Web)  
 Secure voting platform for college elections.  
-Tech Used: PHP, MySQL  
+Tech Used: PHP, MySQL 
+https://studentvoting.infinityfreeapp.com
 
 ### 🤖 Medical Healthcare Chatbot  
 An intelligent chatbot that provides basic medical guidance and answers health-related queries.  
@@ -49,7 +50,7 @@ An Android application developed using Android Studio for conducting secure stud
 Tech Used: Java, XML  
 
 ### 🌐 Portfolio Website  
-Responsive personal portfolio website showcasing my projects and skills.  
+https://darshanparamesha.vercel.app/  
 
 ---
 
