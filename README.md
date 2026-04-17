@@ -18,6 +18,8 @@ Currently seeking internship and entry-level developer opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-p-213ba0348)
 
+🌐 Portfolio: https://darshanparamesha.vercel.app/
+
 📧 Email: darshan.p.mys123@gmail.com  
 
 ---
