@@ -52,7 +52,7 @@ An Android application developed using Android Studio for conducting secure stud
 Tech Used: Java, XML  
 
 ### 🌐 Portfolio Website  
-https://darshanparamesha.vercel.app/  
+https://darshanparamesha.vercel.app
 
 ---
 
