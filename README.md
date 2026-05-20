@@ -40,13 +40,13 @@ Currently seeking internship and entry-level developer opportunities.
 
 ### 🗳 Online Voting System (Web)  
 Secure voting platform for college elections.  
-Tech Used: PHP, MySQL. 
+Tech Used: PHP, MySQL                                                                                                                                               
 Live: https://studentvoting.infinityfreeapp.com
 
 ### 🤖 Medical Healthcare Chatbot  
 An intelligent chatbot that provides basic medical guidance and answers health-related queries.  
 Tech Used: PHP, MySQL, HTML, CSS.
-Live: medicalchatbot.infinityfreeapp.com
+Live: https://medicalchatbot.infinityfreeapp.com
 
 ### 📱 Student Online Voting System (Android App)  
 An Android application developed using Android Studio for conducting secure student elections.  
