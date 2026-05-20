@@ -45,12 +45,12 @@ Live: https://studentvoting.infinityfreeapp.com
 
 ### 🤖 Medical Healthcare Chatbot  
 An intelligent chatbot that provides basic medical guidance and answers health-related queries.  
-Tech Used: PHP, MySQL, HTML, CSS.
+Tech Used: PHP, MySQL, HTML, CSS                                                                                                                                    
 Live: https://medicalchatbot.infinityfreeapp.com
 
 ### 📱 Student Online Voting System (Android App)  
 An Android application developed using Android Studio for conducting secure student elections.  
-Tech Used: Java, XML. 
+Tech Used: Java, XML                                                                                                                                                
 Download APK: https://drive.google.com/file/d/1KFDB_ucZg68pJ8lt5EsaGoxgA3T-U2La/view?usp=sharing
 
 ### 🌐 Portfolio Website  
